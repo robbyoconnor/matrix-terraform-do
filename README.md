@@ -1,3 +1,3 @@
 # Matrix Terraform code
 
-This is the code to bootstrap my matrix server running on DO
+Moved to https://github.com/robbyoconnor/infrastructure
